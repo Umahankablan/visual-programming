@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\görsel_programlama\görsel_programlama\bin\Debug\görsel_programlama.exe.config
+C:\Users\Lenovo\Desktop\görsel_programlama\görsel_programlama\bin\Debug\görsel_programlama.exe
+C:\Users\Lenovo\Desktop\görsel_programlama\görsel_programlama\bin\Debug\görsel_programlama.pdb
+C:\Users\Lenovo\Desktop\görsel_programlama\görsel_programlama\obj\Debug\görsel_programlama.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\görsel_programlama\görsel_programlama\obj\Debug\görsel_programlama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\görsel_programlama\görsel_programlama\obj\Debug\görsel_programlama.AnaSayfa.resources
+C:\Users\Lenovo\Desktop\görsel_programlama\görsel_programlama\obj\Debug\görsel_programlama.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\görsel_programlama\görsel_programlama\obj\Debug\görsel_programlama.UyeEkleFrm.resources
+C:\Users\Lenovo\Desktop\görsel_programlama\görsel_programlama\obj\Debug\görsel_programlama.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\görsel_programlama\görsel_programlama\obj\Debug\görsel_programlama.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\görsel_programlama\görsel_programlama\obj\Debug\görsel_programlama.exe
+C:\Users\Lenovo\Desktop\görsel_programlama\görsel_programlama\obj\Debug\görsel_programlama.pdb
