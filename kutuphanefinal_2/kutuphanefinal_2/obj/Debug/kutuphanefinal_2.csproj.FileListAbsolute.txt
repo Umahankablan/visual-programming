@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\bin\Debug\kutuphanefinal_2.exe.config
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\bin\Debug\kutuphanefinal_2.exe
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\bin\Debug\kutuphanefinal_2.pdb
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.Form1.resources
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.exe
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.pdb
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.frmkisi_islemleri.resources
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.frmkitapislemleri.resources
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.FrmTeslimAl.resources
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.FrmTeslimEt.resources
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.FrmKISILER.resources
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.FrmKITAPLAR.resources
