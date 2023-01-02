@@ -1,0 +1,82 @@
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.Form1.resources
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.FrmKISILER.resources
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.frmkisi_islemleri.resources
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.frmkitapislemleri.resources
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.FrmKITAPLAR.resources
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.FrmTeslimAl.resources
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.FrmTeslimEt.resources
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\bin\Debug\kutuphanefinal_2.exe.config
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\bin\Debug\kutuphanefinal_2.exe
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\bin\Debug\kutuphanefinal_2.pdb
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\bin\Debug\MySqlConnector.dll
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\bin\Debug\MySqlConnector.xml
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.exe
+C:\Users\Lenovo\Desktop\kutuphanefinal_2\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.pdb
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\bin\Debug\kutuphanefinal_2.exe.config
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\bin\Debug\kutuphanefinal_2.exe
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\bin\Debug\kutuphanefinal_2.pdb
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\bin\Debug\MySql.Data.dll
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\bin\Debug\MySqlConnector.dll
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\bin\Debug\System.Buffers.dll
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\bin\Debug\System.Memory.dll
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\bin\Debug\Google.Protobuf.dll
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\bin\Debug\ZstdNet.dll
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\bin\Debug\MySql.Data.xml
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\bin\Debug\MySqlConnector.xml
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\bin\Debug\System.Buffers.xml
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\bin\Debug\System.Memory.xml
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.csproj.AssemblyReference.cache
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.Form1.resources
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.FrmKISILER.resources
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.frmkisi_islemleri.resources
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.frmkitapislemleri.resources
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.FrmKITAPLAR.resources
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.FrmTeslimAl.resources
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.FrmTeslimEt.resources
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.Properties.Resources.resources
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.csproj.GenerateResource.cache
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.csproj.CoreCompileInputs.cache
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.csproj.CopyComplete
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.exe
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.pdb
+C:\Users\melik\OneDrive\Masaüstü\kutuphanefinal_2 - Kopya\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.frmLogin.resources
+C:\Users\Lenovo\Desktop\kutuphanefinal_2 - Kopya\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\kutuphanefinal_2 - Kopya\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\kutuphanefinal_2 - Kopya\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.exe
+C:\Users\Lenovo\Desktop\kutuphanefinal_2 - Kopya\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.pdb
+C:\Users\Lenovo\Desktop\kutuphaneFinal Odevim\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\kutuphaneFinal Odevim\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\kutuphaneFinal Odevim\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.exe
+C:\Users\Lenovo\Desktop\kutuphaneFinal Odevim\kutuphanefinal_2\obj\Debug\kutuphanefinal_2.pdb
